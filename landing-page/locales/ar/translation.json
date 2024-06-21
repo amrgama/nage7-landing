@@ -1,0 +1,79 @@
+{
+    "home": "الرئيسية",
+    "about": "عنا",
+    "services": "الخدمات",
+    "login": {
+        "teacher": "تسجيل الدخول كمدرس",
+        "teacher2": "لوحة تحكم المدرس",
+        "student": "Login as a student"
+    },
+    "subscribe": "اشتراك",
+    "getStartNow": "ابدء الأن",
+    "submit": "تأكيد",
+    "delete": "حذف",
+    "address": "العنوان",
+    "phone": "رقم الهاتف",
+    "email": "البريد الالكترونى",
+    "downloadStudentApp": "حمل التطبيق الخاص بالطالب",
+    "getStarted": "ابدء الأن",
+    "confirm": "تأكيد",
+    "cancel": "رجوع",
+    "continue": "استمرار",
+    "nagehSchool": "مدرسة ناجح",
+    "nagehApp": "تطبيق ناجح",
+    "history": "التاريخ",
+    "community": "المجتمع",
+    "events": "الأحداث",
+    "payments": "طرق الدفع",
+    "goToHomePage": "الانتقال إلى الصفحة الرئيسية",
+    "somethingWrong": "حدث خطأ ما",
+    "retry": "اعادة المحاولة",
+    "form": {
+        "mobile": "الهاتف",
+        "mobilePlaceholder": "اكتب 11 رقمًا",
+        "phone": "رقم الهاتف",
+        "name": "الاسم",
+        "namePlaceholder": "اكتب اسمك",
+        "email": "البريد الالكترونى",
+        "emailPlaceholder": "اكتب بريدك الإلكتروني",
+        "schoolYear": "السنة الدراسية",
+        "schoolYearPlaceholder": "اختر الصف الدراسي الخاص بك",
+        "note": "الملاحظة",
+        "notePlaceholder": "اكتب ملاحظتك هنا",
+        "validation": {
+            "invalidMobile": "يجب أن يحتوي رقم الهاتف على 11 رقم فقط",
+            "invalidEmail": "البريد الإلكتروني غير صحيح"
+        }
+    },
+    "hero":{
+        "text-1": "ادرس من المنزل",
+        "text-2": "انضم إلى <placeholder/>",
+        "title": "قوى قدراتك <placeholder/> في أي وقت وأي مكان <placeholder/> انضم إلى مدرستنا الإلكترونية اليوم",
+        "description": "مرحبًا بكم في مدرستنا، حيث الدورات التفاعلية والمدرسين ذوي الخبرة متاحون، مقدمين منهجًا مرنًا مصممًا خصيصًا للطلاب."
+    },
+    "deleteAccount": {
+        "title": "حذف الحساب",
+        "modal": {
+            "retainPolicy":{
+                "first": "إذا قمتَ بحذف حسابك، سيتم حذف معلوماتك.",
+                "second": "يمكنك إنشاء حساب جديد في أي وقت تشاء."
+            },
+            "title": "مسح حسابك على ناجح",
+            "deleteAccountQuestion": "هل أنت متأكد من أنك تريد حذف حسابك بشكل دائم ؟"
+        },
+        "successMsg": "تم حذف حسابك بنجاح",
+        "errorMsg": "عذرًا، حدث خطأ أثناء محاولة حذف حسابك"
+    },
+    "footer": {
+        "quickLinks": "روابط سريعة",
+        "schoolLinks": "روابط المدرسة",
+        "contactInfo": "معلومات الاتصال"
+    },
+    "validation": {
+        "requiredField": "هذا الحقل مطلوب"
+    },
+    "notFound": {
+        "title": "404 - الصفحة غير موجودة",
+        "description": "قد يكون تمت إزالة الصفحة التي تبحث عنها، أو تغيير اسمها، أو أنها غير موجودة."
+    }
+}

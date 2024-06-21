@@ -1,0 +1,84 @@
+{
+    "home": "home",
+    "about": "about",
+    "services": "services",
+    "login": {
+        "teacher": "Login as a teacher",
+        "teacher2": "teacher dashboard",
+        "student": "Login as a student"
+    },
+    "subscribe": "subscribe",
+    "getStartNow": "get start now",
+    "submit": "submit",
+    "delete": "delete",
+    "address": "address",
+    "phone": "phone",
+    "email": "email",
+    "downloadStudentApp": "download student app",
+    "getStarted": "get started now",
+    "confirm": "confirm",
+    "cancel": "cancel",
+    "continue": "continue",
+    "nagehSchool": "Nage7 school",
+    "nagehApp": "Nage7 app",
+    "history": "history",
+    "community": "community",
+    "events": "events",
+    "payments": "payments",
+    "goToHomePage": "go to home page",
+    "somethingWrong": "something went wrong",
+    "retry": "retry",
+    "form": {
+        "mobile": "Mobile",
+        "mobilePlaceholder": "Write 11 digits",
+        "phone": "Phone Number",
+        "name": "Name",
+        "namePlaceholder": "Write your name",
+        "email": "Email",
+        "emailPlaceholder": "Write your email",
+        "schoolYear": "School Year",
+        "schoolYearPlaceholder": "Select your school year",
+        "note": "Note",
+        "notePlaceholder": "Write your note here",
+        "validation": {
+            "requiredMobile": "Mobile is required",
+            "invalidMobile": "Mobile must contain only 11 digits",
+            "requiredEmail": "Email is required",
+            "invalidEmail": "Email is invalid",
+            "requiredName": "Name is required",
+            "requiredSchoolYear": "School year is required",
+            "requiredNote": "Note is required"
+        }
+    },
+    "hero":{
+        "text-1": "Study From Home",
+        "text-2": "Join <placeholder/>",
+        "title": "Unlock Your <placeholder/> Potential Anytime, Anywhere <placeholder/> Join Our Online School",
+        "description": "Welcome to our school, where interactive courses and experienced instructors are available, offering a flexible curriculum tailored to students."
+    },
+    "deleteAccount": {
+        "title": "delete account",
+        "modal": {
+            "retainPolicy":{
+                "first": "If you delete your account, your information will be deleted.",
+                "second": "You can create a new account anytime you want."
+            },
+            "title": "Delete your Nageh account",
+            "deleteAccountQuestion": "Are you sure you want to delete your account permanently ?"
+        },
+        "successMsg": "Account deleted Successfully",
+        "errorMsg": "Faild to delete account"
+    },
+    "footer": {
+        "quickLinks": "quick links",
+        "schoolLinks": "school links",
+        "contactInfo": "contact info"
+    },
+    "validation": {
+        "requiredField": "This field is required"
+    },
+    "notFound": {
+        "title": "404 - page not found",
+        "description": "The page you are looking for might have been removed, had its name changed, or does not exist."
+    }
+}
